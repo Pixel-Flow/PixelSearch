@@ -1,19 +1,12 @@
-## Welcome to GitHub Pages
+Hello! We Have Created And Done Some Work On Our Own Search Engie Supported By Google Custom Search Engie And Github ( Of Course).
+It Will Have Google Sofware At The Momment, As We Update It, It Will Have LightSprict, Our Own Coding Sprict Used To Make This.
+Also, Any Questions, Feel Free To Open A Issue On The Github File. Enjoy! 
 
-You can use the [editor on GitHub](https://github.com/LigtherWeb-Web/LighterSearch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All Updates Will Be Updated Here. Below Is The Code So Far!
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
 
 <script>
   (function() {
@@ -27,3 +20,10 @@ Syntax highlighted code block
   })();
 </script>
 <gcse:search></gcse:search>
+
+
+** Update Log **
+
+0.1: Added LightSprict, Mix Of Html,JS.
+0.2 : SUppoorted To Add Google CUstom Search And Lone Sofware.
+0.3 : Releassed To Pubilc.
