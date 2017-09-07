@@ -23,14 +23,9 @@ All Updates Will Be Updated Here. Below Is The Code So Far!
 
 
 
+```markdown
 
 
 
 
-------------------------------------------------------------------------------
 
-** Update Log **
-
-0.1: Added LightSprict, Mix Of Html,JS.
-0.2 : SUppoorted To Add Google CUstom Search And Lone Sofware.
-0.3 : Releassed To Pubilc.
