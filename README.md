@@ -22,6 +22,13 @@ All Updates Will Be Updated Here. Below Is The Code So Far!
 <gcse:search></gcse:search>
 
 
+
+
+
+
+
+------------------------------------------------------------------------------
+
 ** Update Log **
 
 0.1: Added LightSprict, Mix Of Html,JS.
