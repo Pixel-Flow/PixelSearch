@@ -2,7 +2,7 @@ Hello! We Have Created And Done Some Work On Our Own Search Engie Supported By G
 It Will Have Google Sofware At The Momment, As We Update It, It Will Have LightSprict, Our Own Coding Sprict Used To Make This.
 Also, Any Questions, Feel Free To Open A Issue On The Github File. Enjoy! 
 
-All Updates Will Be Updated Here. Below Is The Code So Far!
+All Updates Will Be Updated Here. Below Is The Code So Far! [color=red] Hello! [/Color]
 
 ```markdown
 
